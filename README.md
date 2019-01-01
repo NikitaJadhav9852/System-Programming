@@ -1,4 +1,5 @@
 /****************************************************************/
+
 Name :    Jadhav Nikita Hari.
 Roll No :  17210
 
@@ -17,7 +18,7 @@ For Intermediate :
 For Macro :
 		File :Macro1.py
 		Output : Generate 
-					       -Macro Name Table
-					       -Macro Defination Table
+			-Macro Name Table
+			-Macro Defination Table
 
 /****************************************************************/
